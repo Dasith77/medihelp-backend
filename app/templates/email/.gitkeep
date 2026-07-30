@@ -1,0 +1,3 @@
+# Email templates folder
+# Templates are currently generated inline in email_service.py
+# Add Jinja2 templates here for more complex email layouts
